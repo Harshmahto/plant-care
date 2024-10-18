@@ -31,6 +31,12 @@
     ],
     "experiments": {
       "typedRoutes": true
-    }
+    },
+    "extra": {
+      "eas": {
+        "projectId": "120e8bdd-d0fe-417e-be54-b355819fea14"
+      }
+    },
+    "owner": "animetestexpo"
   }
 }
